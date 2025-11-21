@@ -19,5 +19,4 @@ The **AeroTalk** is a modern chat messenger designed for instant communication, 
 ## 💬 App Screenshots
 | **1. Login Screen** | **2. Signup Screen** | **3. ChatHome Screen** | **4. ChatSendMessage Screen** |
 | :---: | :---: | :---: | :---: |
-| <img src="app_screenshots/1.jpeg" alt="Login Screen" width="200"> | <img src="app_screenshots/2.jpeg" alt="Signup Screen" width="200"> | <img src="app_screenshots/3.jpeg" alt="ChatHome Screen" width="200"> |
-| <img src="app_screenshots/4.jpeg" alt="ChatSendMessage" width="200"> |
+| <img src="app_screenshots/1.jpeg" alt="Login Screen" width="200"> | <img src="app_screenshots/2.jpeg" alt="Signup Screen" width="200"> | <img src="app_screenshots/3.jpeg" alt="ChatHome Screen" width="200"> | <img src="app_screenshots/4.jpeg" alt="ChatSendMessage" width="200"> |
