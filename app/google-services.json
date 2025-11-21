@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407245873328",
+    "project_id": "aerotalk-58636",
+    "storage_bucket": "aerotalk-58636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407245873328:android:81a6554069c615d017db75",
+        "android_client_info": {
+          "package_name": "com.example.aerotalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjQrUBYSv5pNRMbqA0X7MuCnZmoL7lTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
